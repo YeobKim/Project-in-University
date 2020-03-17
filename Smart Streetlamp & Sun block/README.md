@@ -57,6 +57,8 @@ Atmega128을 사용하여 여러가지 센서의 동작을 학습하고 최종�
 
 ②Cds 센서(SZH-SSBH-011)
 
+![image](https://user-images.githubusercontent.com/59470033/76867092-68c8b580-68a8-11ea-9a96-8966b872e916.png)
+
 *사양
 1. 허용전류: 5V 3.3V / 15㎃ 이상의 구동 능력
 2. Output type: DO digital switching output (0 and 1) and AO analog voltage output
