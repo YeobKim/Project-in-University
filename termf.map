@@ -1,0 +1,20 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+temp                                                              0x0530       2
+flag                                                              0x0532       2
+adcRaw_b                                                          0x0534       2
+Message                                                           0x0536      40
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+cnt1                                                              R4,R5        2
+cnt2                                                              R6,R7        2
+sh                                                                R8,R9        2
+i                                                                 R10,R11      2
+j                                                                 R12,R13      2
