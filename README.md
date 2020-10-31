@@ -16,6 +16,7 @@ MATLAB을 이용해 컨볼루션 구현, 푸리에 변환, 이미지 및 신호 
 
 ## 센서응용시스템(System Using Sensor)
 스마트 가로등 및 햇빛 가림막 (Smart Streetlamp and Sun Block)
+
 Atmega128을 이용해 다양한 센서로 입력을 받아 처리한 후 스마트 가로등 및 햇빛 가림막을 데모로 구현하였습니다.
 
 ### 자세한 문의사항이나 피드백은 athruk94111@gmail.com 으로 주시면 감사하겠습니다.
