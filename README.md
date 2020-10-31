@@ -1,6 +1,6 @@
 # Project-at-University
 
-한국산업기술대학교(Korea Polytechnic University) [2014~2020]
+한국산업기술대학교(Korea Polytechnic University) 전자공학부 임베디드시스템 전공[2014~2020]
 
 
 * 2014.03 1학년 입학
